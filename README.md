@@ -8,4 +8,6 @@ Before getting started with the "Train a Pathology" notebook, please download th
 - <a href="http://gigadb.org/dataset/view/id/100439/Files_page/30">tumor_001.tif</a>
 
 
-For more my MONAI tutorial, please refer to: https://github.com/WarrenTseng/monai_endoscopy_tutorial/tree/main/MONAICore
+For more my MONAI tutorial, please refer to: 
+- https://github.com/Project-MONAI/tutorials
+- https://github.com/WarrenTseng/monai_endoscopy_tutorial/tree/main/MONAICore
