@@ -8,4 +8,4 @@ Before getting started, please download the required files and put them into "my
 - <a href="http://gigadb.org/dataset/view/id/100439/Files_page/30">tumor_001.tif</a>
 
 
-For basic MONAI tutorial, please refer to: https://github.com/WarrenTseng/monai_endoscopy_tutorial/tree/main/MONAICore
+For more my MONAI tutorial, please refer to: https://github.com/WarrenTseng/monai_endoscopy_tutorial/tree/main/MONAICore
